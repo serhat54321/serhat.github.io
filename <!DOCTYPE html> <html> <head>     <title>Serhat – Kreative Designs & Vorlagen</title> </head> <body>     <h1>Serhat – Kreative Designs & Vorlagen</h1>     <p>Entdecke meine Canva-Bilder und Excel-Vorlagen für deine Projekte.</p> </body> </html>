@@ -1,1 +1,14 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Serhat – Kreative Designs & Vorlagen</title>
+</head>
+<body>
+    <h1>Serhat – Kreative Designs & Vorlagen</h1>
+    <p>Entdecke meine Canva-Bilder und Excel-Vorlagen für deine Projekte.</p>
+    
+    <!-- Dein Bild einfügen -->
+    <img src="mann mit.jpeg" alt="Serhat" width="500">
+</body>
+</html>
